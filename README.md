@@ -37,6 +37,11 @@ Permitir que gestores e diretoria consigam:
 ## 🧪 Sobre os Dados
 Os dados utilizados neste projeto são **fictícios**, criados exclusivamente para fins educacionais e de portfólio.
 
+## 🖼️ Visual do Dashboard
+
+![Dashboard](imagens/capa-dashboard.png)
+
+
 ## 👩‍💼 Sobre a Autora
 **Josy Marra**  
 Profissional com sólida experiência em vendas e relacionamento com clientes, em transição para a área de **Análise de Dados e Business Intelligence**, com foco em transformar dados em decisões estratégicas.
