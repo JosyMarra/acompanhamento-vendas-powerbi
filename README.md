@@ -37,10 +37,6 @@ Permitir que gestores e diretoria consigam:
 ## 🧪 Sobre os Dados
 Os dados utilizados neste projeto são **fictícios**, criados exclusivamente para fins educacionais e de portfólio.
 
-## 🖼️ Visual do Dashboard
-
-![Dashboard](imagens/foto pg menu.png)
-
 
 ## 👩‍💼 Sobre a Autora
 **Josy Marra**  
