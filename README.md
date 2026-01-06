@@ -39,7 +39,7 @@ Os dados utilizados neste projeto são **fictícios**, criados exclusivamente pa
 
 ## 🖼️ Visual do Dashboard
 
-![Dashboard](imagens/foto.png)
+![Dashboard](imagens/foto pg menu.png)
 
 
 ## 👩‍💼 Sobre a Autora
